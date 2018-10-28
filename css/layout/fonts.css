@@ -3,8 +3,15 @@
 ****************************/
 
 @font-face {
-    font-family: 'TitilliumWeb';
-    src: url('fonts/TitilliumWeb-Regular.ttf');
+    font-family: '12299';
+    src: url('fonts/12299.otf');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: '12300';
+    src: url('fonts/12300.otf');
     font-weight: normal;
     font-style: normal;
 }
