@@ -7,12 +7,22 @@
     /* border: 1px solid #e20b0b; */
 }
 
-.aside {
-    width: 50%;
-    /* border: 1px solid #f441ca; */
+.line {
+    margin-top: 2px;
+    border-bottom: 1px solid #999999;
 }
 
 .main {
-    width: 50%;
+    width: 100%;
     /* border: 1px solid #f441ca; */
 }
+
+.name {}
+
+.navigation {}
+
+.main-block {}
+
+.second-block {}
+
+.links {}
