@@ -187,18 +187,18 @@ ul {
 a,
 a:visited {
     /* порядок правил для ссылок имеет значение */
-    color: #f70f0f;
-    text-decoration: underline;
+    color: #982216;
+    text-decoration: none;
 }
 
 a:hover {
-    color: #fd8b08;
+    color: #999999;
     text-decoration: none;
 }
 
 a:focus,
 a:active {
-    color: #03fa03;
+    color: #982216;
     text-decoration: underline;
 }
 
