@@ -1,0 +1,66 @@
+/****************************
+**      AntonVoronezh
+****************************/
+
+.left-top,
+.left-bottom,
+.right-adv,
+.right-links {
+    padding: 10px;
+}
+
+.left-top {
+    display: flex;
+}
+
+.left-top__left {
+    padding: 10px;
+    width: 50%;
+    border: 1px solid #000000;
+}
+
+.left-top__right {
+    padding: 10px;
+    width: 50%;
+    border: 1px solid #000000;
+}
+
+.left-top-item {
+    width: 100%;
+    margin-top: 10px;
+}
+
+.left-top__title {
+    padding-bottom: 5px;
+    color: #666666;
+font-family: Georgia;
+font-size: 16px;
+font-weight: 400;
+line-height: 16px;
+text-transform: uppercase;
+border-bottom: 1px solid #666666;
+}
+
+.left-top__title-text {
+    margin-top: 5px;
+    margin-bottom: 5px;
+    color: #444444;
+font-family: Georgia;
+font-size: 12px;
+font-weight: bold;
+line-height: 12px;
+}
+
+.left-top__text {
+    color: #666666;
+font-family: Georgia;
+font-size: 12px;
+font-weight: 400;
+line-height: 14.4px;
+}
+
+.left-top__img {
+    display: inline-block;
+    float: left;
+    margin-right: 10px;
+}
