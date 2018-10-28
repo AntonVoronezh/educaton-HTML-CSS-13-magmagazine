@@ -234,7 +234,13 @@ div {
 }
 
 img {
+    box-shadow: 0 0 0 3px #e0e0e0, 0 0 0 4px #999999;
+    margin: 5px;
     transition: opacity 1.1s;
+}
+
+.img-border {
+    border: 1px solid #999999;
 }
 
 .content-box-component {
